@@ -3,7 +3,8 @@ import ownableAbi from "./abis/ownable.json";
 
 const abis = {
   erc20: erc20Abi,
-  ownable: ownableAbi,
+  ownable: ownableAbi, 
+  
 };
 
 export default abis;
